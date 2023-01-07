@@ -1,5 +1,5 @@
 # AVR-programming-shield
-Arduino shield with ZIP socket to program sketches or bootloaders into 28-pin ATMega microcontrollers. 
+Arduino shield with ZIF socket to program sketches or bootloaders into 28-pin ATMega microcontrollers. 
 
 Usage for sketches: 
 ===================
